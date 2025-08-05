@@ -42,6 +42,8 @@ Model Evaluation
 -Technologies Used :
 
 Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Scikit-learn
+Pandas, 
+NumPy,
+Matplotlib, 
+Seaborn,
+Scikit-learn.
